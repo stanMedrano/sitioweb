@@ -487,6 +487,28 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* Sobre mi Section
 --------------------------------*/
+.certificados-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.certificado-item {
+  text-align: center; 
+  margin: 10px; 
+}
+
+.certificado-img {
+  max-width: 30%;
+  height: auto;
+}
+
+.certificado-text {
+  margin-top: 5px; 
+  color: #000;
+}
+
 #sobreMi {
   background: #fff;
   padding: 80px 0;
